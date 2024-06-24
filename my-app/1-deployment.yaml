@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: selectalldelete/nginx:v0.1.0
+          image: selectalldelete/nginx:v0.1.1
           ports:
             - containerPort: 80
