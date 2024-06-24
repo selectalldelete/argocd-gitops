@@ -16,6 +16,6 @@ metadata:
       containers:
         - name: nginx
           imagePullPolicy: Always
-          image: selectalldelete/nginx:v0.1.3
+          image: selectalldelete/nginx
           ports:
             - containerPort: 80
